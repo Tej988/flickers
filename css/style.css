@@ -1,0 +1,72 @@
+nav{
+    font-size: 30px;
+    border: solid ;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 50px;
+    background-image: url(../images/Abstract_Background_with_Blue_Triangles.jpg);
+    
+}
+nav li {
+    display: inline-block;
+    padding-top: 5px;
+    background-color:white ;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+
+    
+}
+
+a:link{
+    text-decoration: none;
+    color: rgb(230, 55, 24);
+
+}
+a:hover{
+    color: tomato;
+    background-color: yellow;
+}
+body h1 {
+     text-align: center;
+     font-family: cursive;
+}
+body p{
+    padding-left: 20px;
+    
+}
+
+.our{
+    display: block;
+    border: solid;
+    background-image:url(../images/background-2072829__340.jpg) ;
+    padding-left: 20px;
+
+}
+.our h3{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+}
+.one{
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+.two{
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-bottom: 30px;
+}
+footer{
+    border: solid;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    background-color: rgb(175, 175, 175);
+}
+.link{
+    display: block;
+    padding-right: 10px;
+    background-color: honeydew;
+}
