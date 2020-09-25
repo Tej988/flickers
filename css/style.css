@@ -1,6 +1,7 @@
 nav{
     font-size: 30px;
-    border: solid ;
+    border: transparent ;
+    border-radius: 5px;
     text-align: center;
     text-decoration: none;
     padding-bottom: 50px;
@@ -27,6 +28,12 @@ a:hover{
     color: tomato;
     background-color: yellow;
 }
+.h1{
+    border: solid;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: tomato;
+}
 body h1 {
      text-align: center;
      font-family: cursive;
@@ -38,7 +45,7 @@ body p{
 
 .our{
     display: block;
-    border: solid;
+    border: transparent;
     background-image:url(../images/background-2072829__340.jpg) ;
     padding-left: 20px;
 
